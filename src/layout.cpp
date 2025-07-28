@@ -1,5 +1,7 @@
 #include "ear/layout.hpp"
 
+#include <iterator>
+
 #include "common/geom.hpp"
 
 namespace ear {
